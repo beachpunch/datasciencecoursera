@@ -2,11 +2,7 @@
 title: "HelloWorld"
 author: "beachpunch"
 date: "10/06/2022"
-output: pdf_document
+output: md_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
